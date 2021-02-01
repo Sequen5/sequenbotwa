@@ -320,7 +320,7 @@ module.exports = HandleMsg = async (piyo, message) => {
             '10%',
             '5%'
             ]
-        const nomormutualan = ['6289689542663@s.whatsapp.net']
+        const nomormutualan = ['ISI NOMOR KAMU']
 		// [IDENTIFY]
 	const isOwnerBot = 
         const isBanned = banned.includes(pengirim)
