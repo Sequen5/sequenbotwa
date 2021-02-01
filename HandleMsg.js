@@ -322,7 +322,7 @@ module.exports = HandleMsg = async (piyo, message) => {
             ]
         const nomormutualan = ['6289689542663@s.whatsapp.net']
 		// [IDENTIFY]
-		const isOwnerBot = ["6289689542663@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+	const isOwnerBot = 
         const isBanned = banned.includes(pengirim)
         const isSimi = simi.includes(chatId)
         const isChat = chatt.includes(chatId)
